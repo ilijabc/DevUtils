@@ -1,0 +1,14 @@
+// Documentation at https://www.sublimetext.com/docs/themes.html
+{
+    "variables":
+    {
+        "base_hue": "hsl(50, 10%, 50%)",
+    },
+    "rules":
+    [
+        {
+            "class": "title_bar",
+            "style": "system"
+        },
+    ]
+}

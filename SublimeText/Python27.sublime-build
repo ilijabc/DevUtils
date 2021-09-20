@@ -1,0 +1,6 @@
+{
+    "shell_cmd": "start \"\" cmd /s /c \"python \"$file\" & pause\"",
+    "file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+    // "selector": "source.python",
+    // "env": {"PYTHONIOENCODING": "utf-8"},
+}

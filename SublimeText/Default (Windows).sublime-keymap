@@ -1,0 +1,9 @@
+[
+    { "keys": ["ctrl+f1"], "command": "show_overlay", "args": {"overlay": "command_palette"} },
+    { "keys": ["f1"], "command": "goto_definition" },
+    { "keys": ["ctrl+shift+x"], "command": "build", "args": {"select": true} },
+    { "keys": ["ctrl+alt+p"], "command": "prompt_select_workspace" },
+    { "keys": ["ctrl+shift+s"], "command": "save_all" },
+    { "keys": ["ctrl+shift+w"], "command": "toggle_setting", "args": {"setting": "word_wrap"}},
+    { "keys": ["ctrl+shift+e"], "command": "toggle_side_bar" },
+]

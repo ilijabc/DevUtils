@@ -1,0 +1,22 @@
+{
+	"always_show_minimap_viewport": true,
+	"color_scheme": "Monokai.sublime-color-scheme",
+	"copy_with_empty_selection": false,
+	"default_line_ending": "unix",
+	"font_size": 11,
+	"highlight_modified_tabs": true,
+	"hot_exit": true,
+	"ignored_packages":
+	[
+		"Theme - Cyanide",
+		"Vintage",
+	],
+	"show_definitions": false,
+	"show_git_status": true,
+	"show_tab_close_buttons": false,
+	"theme": "Default Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"ui_scale": 1.2,
+	"word_wrap": true,
+	"themed_title_bar": false,
+}
