@@ -1,0 +1,17 @@
+[user]
+	name = Ilija Djukic
+	email = ilija.djukic@rt-rk.com
+[alias]
+	co = checkout
+	ci = commit
+	st = status
+	br = branch
+	hist = log --pretty=format:\"%h %ad | %s%d [%an]\" --graph --date=short
+	type = cat-file -t
+	dump = cat-file -p
+	tree = log --graph --decorate --pretty=oneline --abbrev-commit
+	dc = diff --cached
+	uno = status -uno
+[filesystem "Oracle Corporation|1.8.0_261|-432200435"]
+	timestampResolution = 1001 microseconds
+	minRacyThreshold = 0 nanoseconds
